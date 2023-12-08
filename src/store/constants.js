@@ -1,0 +1,15 @@
+export const DIVIS = 'DIVIS'
+export const MULT = 'MULT'
+export const MINUS = 'MINUS'
+export const ADD = 'ADD'
+
+export const Y_ROOT_X = 'Y_ROOT_X'
+export const EE_X = 'EE_X'
+export const X_Y_DEGREE = 'X_Y_DEGREE'
+
+export const SIN = 'SIN'
+export const COS = 'COS'
+export const TAN = 'TAN'
+export const SINH = 'SINH'
+export const COSH = 'COSH'
+export const TANH = 'TANH'
